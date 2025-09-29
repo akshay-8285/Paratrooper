@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: fab676bc81f1dfd4b9d82d4f53055cdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5619474455002479632
+    second: explosion spread 1_0
+  - first:
+      213: -4663309536817450845
+    second: explosion spread 1_1
+  - first:
+      213: 7854786002535510648
+    second: explosion spread 1_2
+  - first:
+      213: 1323771997729828977
+    second: explosion spread 1_3
+  - first:
+      213: 5667323209145602009
+    second: explosion spread 1_4
+  - first:
+      213: 5533351896262369165
+    second: explosion spread 1_5
+  - first:
+      213: 684560794979073301
+    second: explosion spread 1_6
+  - first:
+      213: 6105283149609877161
+    second: explosion spread 1_7
+  - first:
+      213: 8740553764025916507
+    second: explosion spread 1_8
+  - first:
+      213: -6259574213177579462
+    second: explosion spread 1_9
+  - first:
+      213: -5673173972812414804
+    second: explosion spread 1_10
+  - first:
+      213: -2183834683023169829
+    second: explosion spread 1_11
+  - first:
+      213: -4297382410578532609
+    second: explosion spread 1_12
+  - first:
+      213: -9212595831687057188
+    second: explosion spread 1_13
+  - first:
+      213: 7226515558869635374
+    second: explosion spread 1_14
+  - first:
+      213: 8633692543930515047
+    second: explosion spread 1_15
+  - first:
+      213: -1339622153201653108
+    second: explosion spread 1_16
+  - first:
+      213: 1582888111622348198
+    second: explosion spread 1_17
+  - first:
+      213: -2923526044025963848
+    second: explosion spread 1_18
+  - first:
+      213: -7251013685701445070
+    second: explosion spread 1_19
+  - first:
+      213: -4892521356901435799
+    second: explosion spread 1_20
+  - first:
+      213: -1531424670356002716
+    second: explosion spread 1_21
+  - first:
+      213: 5115019988601816732
+    second: explosion spread 1_22
+  - first:
+      213: 7507630177685870670
+    second: explosion spread 1_23
+  - first:
+      213: 8025497200069676324
+    second: explosion spread 1_24
+  - first:
+      213: -5485132621511183369
+    second: explosion spread 1_25
+  - first:
+      213: -2488208538374024704
+    second: explosion spread 1_26
+  - first:
+      213: -7126643350505151148
+    second: explosion spread 1_27
+  - first:
+      213: 8966025414632110132
+    second: explosion spread 1_28
+  - first:
+      213: -1388508047347205338
+    second: explosion spread 1_29
+  - first:
+      213: -8627007998141847500
+    second: explosion spread 1_30
+  - first:
+      213: 1905938078780131032
+    second: explosion spread 1_31
+  - first:
+      213: 2417888017178599238
+    second: explosion spread 1_32
+  - first:
+      213: -5894152589123975854
+    second: explosion spread 1_33
+  - first:
+      213: 917049643943572801
+    second: explosion spread 1_34
+  - first:
+      213: 7368899099750868409
+    second: explosion spread 1_35
+  - first:
+      213: -1524468464873078651
+    second: explosion spread 1_36
+  - first:
+      213: 2219382023697485179
+    second: explosion spread 1_37
+  - first:
+      213: -5430362685648083165
+    second: explosion spread 1_38
+  - first:
+      213: -5650633735603717634
+    second: explosion spread 1_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion spread 1_0
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 377
+        width: 215
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f30235a1cd9302b0800000000000000
+      internalID: -5619474455002479632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 348
+        width: 276
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0fd4cfea8984fb0800000000000000
+      internalID: -4663309536817450845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 570
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872f6dbb04ec10d60800000000000000
+      internalID: 7854786002535510648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 588
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170bb484e9bfe5210800000000000000
+      internalID: 1323771997729828977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_4
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 589
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df43749e6066ae40800000000000000
+      internalID: 5667323209145602009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 584
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fd3f19b3a6acc40800000000000000
+      internalID: 5533351896262369165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 585
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df2e38a6c008900800000000000000
+      internalID: 684560794979073301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 549
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aebca96da25ab450800000000000000
+      internalID: 6105283149609877161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_8
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 381
+        width: 224
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cd7f4c65fac4970800000000000000
+      internalID: 8740553764025916507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 569
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38ea52fa668129a0800000000000000
+      internalID: -6259574213177579462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_10
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 573
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca046895456d441b0800000000000000
+      internalID: -5673173972812414804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 410
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e93e1de571b1e0800000000000000
+      internalID: -2183834683023169829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 495
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff664715771ac54c0800000000000000
+      internalID: -4297382410578532609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_13
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 412
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd07c09c6e8462080800000000000000
+      internalID: -9212595831687057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_14
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 441
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e211242fc9db94460800000000000000
+      internalID: 7226515558869635374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_15
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 358
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebaec10a901d770800000000000000
+      internalID: 8633692543930515047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_16
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 374
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aeb21dfb4b86de0800000000000000
+      internalID: -1339622153201653108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_17
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 354
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad507cd95c87f510800000000000000
+      internalID: 1582888111622348198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 327
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baba3e6d8c8d67d0800000000000000
+      internalID: -2923526044025963848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23af44a68793f5b90800000000000000
+      internalID: -7251013685701445070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 229
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b0e16fb54a1cb0800000000000000
+      internalID: -4892521356901435799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7
+        width: 321
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468292b40694fbae0800000000000000
+      internalID: -1531424670356002716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_22
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 191
+        width: 239
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9642af34933cf640800000000000000
+      internalID: 5115019988601816732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 186
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4818f59ed5703860800000000000000
+      internalID: 7507630177685870670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_24
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 209
+        width: 116
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8b0cbe2b406f60800000000000000
+      internalID: 8025497200069676324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f33be431f4e0e3b0800000000000000
+      internalID: -5485132621511183369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 323
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0025f17748b187dd0800000000000000
+      internalID: -2488208538374024704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_27
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 172
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455ad3c91a3191d90800000000000000
+      internalID: -7126643350505151148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 182
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438754e4c98bd6c70800000000000000
+      internalID: 8966025414632110132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 149
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b391e99470bbce0800000000000000
+      internalID: -1388508047347205338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 92
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382d4cfee5b64880800000000000000
+      internalID: -8627007998141847500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_31
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 137
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68495a590437a10800000000000000
+      internalID: 1905938078780131032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_32
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 150
+        width: 94
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f9a9257501e8120800000000000000
+      internalID: 2417888017178599238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_33
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 79
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550151e273c33ea0800000000000000
+      internalID: -5894152589123975854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_34
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 109
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b7acdac30abc00800000000000000
+      internalID: 917049643943572801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_35
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 110
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5a85a60b6934660800000000000000
+      internalID: 7368899099750868409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 28
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58084f7120008dae0800000000000000
+      internalID: -1524468464873078651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d40671134dcce10800000000000000
+      internalID: 2219382023697485179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_38
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 39
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327e860a8e973a4b0800000000000000
+      internalID: -5430362685648083165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion spread 1_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef970894e8ae491b0800000000000000
+      internalID: -5650633735603717634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion spread 1_0: -5619474455002479632
+      explosion spread 1_1: -4663309536817450845
+      explosion spread 1_10: -5673173972812414804
+      explosion spread 1_11: -2183834683023169829
+      explosion spread 1_12: -4297382410578532609
+      explosion spread 1_13: -9212595831687057188
+      explosion spread 1_14: 7226515558869635374
+      explosion spread 1_15: 8633692543930515047
+      explosion spread 1_16: -1339622153201653108
+      explosion spread 1_17: 1582888111622348198
+      explosion spread 1_18: -2923526044025963848
+      explosion spread 1_19: -7251013685701445070
+      explosion spread 1_2: 7854786002535510648
+      explosion spread 1_20: -4892521356901435799
+      explosion spread 1_21: -1531424670356002716
+      explosion spread 1_22: 5115019988601816732
+      explosion spread 1_23: 7507630177685870670
+      explosion spread 1_24: 8025497200069676324
+      explosion spread 1_25: -5485132621511183369
+      explosion spread 1_26: -2488208538374024704
+      explosion spread 1_27: -7126643350505151148
+      explosion spread 1_28: 8966025414632110132
+      explosion spread 1_29: -1388508047347205338
+      explosion spread 1_3: 1323771997729828977
+      explosion spread 1_30: -8627007998141847500
+      explosion spread 1_31: 1905938078780131032
+      explosion spread 1_32: 2417888017178599238
+      explosion spread 1_33: -5894152589123975854
+      explosion spread 1_34: 917049643943572801
+      explosion spread 1_35: 7368899099750868409
+      explosion spread 1_36: -1524468464873078651
+      explosion spread 1_37: 2219382023697485179
+      explosion spread 1_38: -5430362685648083165
+      explosion spread 1_39: -5650633735603717634
+      explosion spread 1_4: 5667323209145602009
+      explosion spread 1_5: 5533351896262369165
+      explosion spread 1_6: 684560794979073301
+      explosion spread 1_7: 6105283149609877161
+      explosion spread 1_8: 8740553764025916507
+      explosion spread 1_9: -6259574213177579462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
