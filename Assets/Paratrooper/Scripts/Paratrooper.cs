@@ -28,7 +28,7 @@ public class Paratrooper : MonoBehaviour
         parachuteDestroyed = false;
         hasLanded = false;
 
-        // Always face straight down (ignore chopper rotation)
+        
         transform.rotation = Quaternion.identity;
 
         // Start parachute timing
@@ -39,7 +39,7 @@ public class Paratrooper : MonoBehaviour
 
     void OnDisable()
     {
-        // Clean up coroutine
+        
         if (parachuteCoroutine != null)
         {
             StopCoroutine(parachuteCoroutine);

@@ -10,6 +10,7 @@ TagManager:
   - Parachute
   - Paratrooper_1
   - Chooper
+  - Aircraft
   layers:
   - Default
   - TransparentFX
