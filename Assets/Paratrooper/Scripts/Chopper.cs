@@ -17,7 +17,7 @@ public class Chopper : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector3.down * speed * Time.deltaTime);
+        transform.Translate(Vector3.right * speed * Time.deltaTime);
         // Vector3 pos = transform.position;
         // pos.x = Mathf.Clamp(pos.x, minX, maxX);
         // transform.position = pos;
@@ -29,7 +29,7 @@ public class Chopper : MonoBehaviour
         {
             yield return new WaitForSeconds(dropDelay);
 
-            ObjectPool.Instance.GetPooledObject("Paratrooper", dropPoint.position, Quaternion.Euler(0, 0, rotate));
+            ObjectPool.Instance.GetPooledObject("Paratrooper", dropPoint.position, Quaternion.Euler(0, 0, 0));
             Debug.Log("Paratrooper Dropped!"+ gameObject.name);
         }
     }

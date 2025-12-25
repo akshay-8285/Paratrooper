@@ -11,6 +11,11 @@ TagManager:
   - Paratrooper_1
   - Chooper
   - Aircraft
+  - Plane
+  - Hit
+  - Chopper
+  - Boundary
+  - Enemy
   layers:
   - Default
   - TransparentFX
