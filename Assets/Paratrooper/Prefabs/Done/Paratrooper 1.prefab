@@ -260,6 +260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 334186574858250199}
   - component: {fileID: 8141673060721568714}
+  - component: {fileID: -9138048597274961547}
   m_Layer: 0
   m_Name: Paratrooper 1
   m_TagString: Paratrooper
@@ -299,7 +300,7 @@ Rigidbody2D:
   m_Mass: 100
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 0.5
+  m_GravityScale: 0.7
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -311,3 +312,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-9138048597274961547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8478812081645607038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c24333d8d717b94b9f42df774cf4a47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parachutePrefab: {fileID: 5604813501957874199}
+  parachuteDelay: 0.6
+  parachuteGravity: 0.12
+  normalParachuteGravity: 0

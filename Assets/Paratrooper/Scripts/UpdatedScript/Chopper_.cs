@@ -4,37 +4,14 @@ using UnityEngine;
 
 public class Chopper_ : MonoBehaviour
 {
-    [SerializeField] private Transform spawnPoint;
-    [SerializeField] private float SpawnTime = 2f;  
     [SerializeField] private float moveSpeed = 5f;
 
-    void Start()
-    {
-        StartCoroutine(spawnChopper());
-    }
+   
     void Update()
     {
         transform.Translate(Vector3.right * moveSpeed * Time.deltaTime);
     }
 
-    private IEnumerator spawnChopper()
-    {
-        while(true)
-        {
-            if(spawnPoint == null)
-            {
-                Debug.LogWarning("Spawn point is not assigned.");
-                
-            }
-            else
-            {
-                ObjectPooler_.Instance.GetPoolObject("Chopper", spawnPoint.position, spawnPoint.rotation);
-            }
-            
-            
-            yield return new WaitForSeconds(SpawnTime);
-        }
-    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -56,4 +33,5 @@ public class Chopper_ : MonoBehaviour
 
         }
     }
+    
 }

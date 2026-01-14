@@ -5,17 +5,17 @@ using UnityEngine;
 
 public class ObjectPooler_ : MonoBehaviour
 {
-    
+
     public static ObjectPooler_ Instance;
-    
+
     public List<Pool_Data> poolDataList;
     //private Queue<GameObject> pool;
     private Dictionary<string, Queue<GameObject>> poolDictionary;
-    
+
 
     private void Awake()
     {
-        if(Instance == null)
+        if (Instance == null)
         {
             Instance = this;
         }
@@ -32,7 +32,7 @@ public class ObjectPooler_ : MonoBehaviour
         foreach (Pool_Data pool in poolDataList)
         {
             Queue<GameObject> objectPool = new Queue<GameObject>();
-            for(int i = 0; i < pool.poolSize; i++)
+            for (int i = 0; i < pool.poolSize; i++)
             {
                 GameObject obj = Instantiate(pool.prefab, transform);
                 obj.SetActive(false);
@@ -42,11 +42,11 @@ public class ObjectPooler_ : MonoBehaviour
         }
     }
 
-   
 
-    public GameObject GetPoolObject(string tag , Vector3 position, Quaternion rotation)
+
+    public GameObject GetPoolObject(string tag, Vector3 position, Quaternion rotation)
     {
-        if(!poolDictionary.ContainsKey(tag))
+        if (!poolDictionary.ContainsKey(tag))
         {
             Debug.LogWarning("Pool with tag " + tag + " doesn't exist.");
             return null;
@@ -59,19 +59,19 @@ public class ObjectPooler_ : MonoBehaviour
         //pool.Enqueue(obj);
         return obj;
     }
-    
 
-    public void ReturnToPool(string tag , GameObject obj)
+
+    public void ReturnToPool(string tag, GameObject obj)
     {
         Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
-        if(rb != null)
+        if (rb != null)
         {
             rb.velocity = Vector2.zero;
             rb.angularVelocity = 0f;
         }
-        obj.transform.position = Vector2.zero;
-        obj.transform.rotation = Quaternion.identity;
-        poolDictionary[tag].Enqueue(obj);
+
         obj.SetActive(false);
+        poolDictionary[tag].Enqueue(obj);
     }
+
 }
